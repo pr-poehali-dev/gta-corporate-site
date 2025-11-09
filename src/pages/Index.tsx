@@ -162,7 +162,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-4">
                     <Icon name="Phone" size={24} className="text-primary" />
-                    <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                    <p className="text-muted-foreground">1345821</p>
                   </div>
                   <div className="flex items-center gap-4">
                     <Icon name="Mail" size={24} className="text-primary" />
