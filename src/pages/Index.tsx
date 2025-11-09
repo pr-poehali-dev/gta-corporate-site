@@ -158,7 +158,7 @@ export default function Index() {
                 <div className="space-y-4">
                   <div className="flex items-center gap-4">
                     <Icon name="MapPin" size={24} className="text-primary" />
-                    <p className="text-muted-foreground">Москва, Красная площадь, д.1</p>
+                    <p className="text-muted-foreground">Los-Santos Mirror Park Дом 217</p>
                   </div>
                   <div className="flex items-center gap-4">
                     <Icon name="Phone" size={24} className="text-primary" />
