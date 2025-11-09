@@ -166,7 +166,7 @@ export default function Index() {
                   </div>
                   <div className="flex items-center gap-4">
                     <Icon name="Mail" size={24} className="text-primary" />
-                    <p className="text-muted-foreground">info@grandtheautov.com</p>
+                    <p className="text-muted-foreground"></p>
                   </div>
                 </div>
                 <div className="mt-8 flex gap-4">
